@@ -21,15 +21,12 @@ document.write(`<p>La multiplicacion es ${multiplicar(numero1,numero2)}</p>`);
 
 //document.write(`<p>El primer número ingresado es ${numero1} y el segundo es ${numero2}</p>`);*/
 
-/*document.getElementById("titulo").innerHTML="No estoy aprendiendo nada"
+document.getElementById("titulo").innerHTML="No estoy aprendiendo nada"
 
 const imagen=document.getElementById("foto")
 
 imagen.src="imagenes/js2.png"
 imagen.style.borderRadius="20px"
-imagen.style.height="200px"*/
+imagen.style.height="200px"
 
-function mostrar(){
-    Swal.fire("Esta es una alerta");
-}
 
